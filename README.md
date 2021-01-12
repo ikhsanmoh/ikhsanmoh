@@ -5,7 +5,7 @@
 ## I'm a Developer and Student!
 
 - 🌱 I’m currently learning PHP Native, Javascript and some backend framework like Laravel & NodeJS
-- 🥅 2020 Goals: Become a Fullstack Developer
+- 🥅 2021 Goals: Become a Fullstack Developer
 
 ### Connect with me:
 
