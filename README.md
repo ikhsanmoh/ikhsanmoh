@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IkhsanMohamad7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FIkhsanMohamad7&screen_name=IkhsanMohamad7)
 
-## I'm a Developer and Student!
+## I'm a Junior Web/Mobile Developer and Student!
 
 - 🌱 I’m currently learning PHP Native, Javascript and some backend framework like Laravel & NodeJS
 - 🥅 2021 Goals: Become a Fullstack Developer
