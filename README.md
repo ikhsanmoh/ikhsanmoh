@@ -4,8 +4,8 @@
 
 ## I'm a Junior Web/Mobile Developer and Student!
 
-- 🌱 I’m currently learning PHP Native, Javascript and some backend framework like Laravel & NodeJS
-- 🥅 2021 Goals: Become a Fullstack Developer
+- 🌱 I’m currently learning PHP Native, Javascript and some backend framework like Laravel.
+- 🥅 2021 Goals: Become a Fullstack Developer.
 
 ### Connect with me:
 
