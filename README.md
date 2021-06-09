@@ -5,7 +5,7 @@
 ## I'm a Student and Ethusiast in Web Development.
 
 - 🌱 I’m currently learning PHP, Javascript and some backend framework/Library like Laravel, React and Express.
-- 🥅 2021 Goals: Become a better developer.
+- 🥅 2021 Goals: Become a better Developer.
 
 ### Connect with me:
 
