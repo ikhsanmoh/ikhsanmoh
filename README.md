@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ikhsanmoh13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fikhsanmoh13&screen_name=ikhsanmoh13)
 
-## I'm a Junior in Web Development.
+## I'm a Student and Ethusiast in Web Development.
 
 - 🌱 I’m currently learning PHP, Javascript and some backend framework/Library like Laravel, React and Express.
-- 🥅 2021 Goals: Become a Fullstack Developer.
+- 🥅 2021 Goals: Become a better developer.
 
 ### Connect with me:
 
