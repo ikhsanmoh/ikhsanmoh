@@ -2,10 +2,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ikhsanmoh13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fikhsanmoh13&screen_name=ikhsanmoh13)
 
-## I'm a Mobile Engineer.
+## Frontend Engineer.
 
-- 🌱 I’m currently Focusing on React.js and React Native, I also familiar with Laravel and Express
-- 🥅 2022 Goals: Strengthen my knowledge in Mobile Development.
+- Proficient with CSS and JS Frameworks like react/next, vue/nuxt and React Native.
 
 ### Connect with me:
 
