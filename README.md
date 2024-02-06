@@ -2,9 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ikhsanmoh13?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fikhsanmoh13&screen_name=ikhsanmoh13)
 
-## Frontend Engineer.
-
-- Proficient with CSS and JS Frameworks like react/next, vue/nuxt and React Native.
+## Fullstack Engineer.
 
 ### Connect with me:
 
@@ -35,6 +33,5 @@
 <br />
 
 [twitter]: https://twitter.com/IkhsanMohamad7
-[facebook]: https://web.facebook.com/ikhsanmohamad13
 [instagram]: https://instagram.com/ikhsanm13
-<!-- [linkedin]: https://linkedin.com/in/IkhsanMohamad -->
+[linkedin]: https://linkedin.com/in/ikhsanmohamad
